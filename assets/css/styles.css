@@ -1,0 +1,57 @@
+#actividad1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+#imagen1{
+    width:10vh;
+    cursor: pointer;
+}
+
+#actividad3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputs{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+#boton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#actividad2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+}
+
+.img2 {
+    height: 200px;
+    width: 200px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 0 15px;
+}
+
+#verificar{
+    width: 100px;
+}
